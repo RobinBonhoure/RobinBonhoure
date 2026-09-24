@@ -10,9 +10,9 @@ Formation scientifique (licence), puis 5 ans d'expérience en startup.
 
 ## Ma stack
 
-**Front** : Next.js · React · TypeScript · TanStack Query · Three.js / React Three Fiber
-**Back** : NestJS · ExpressJS
-**Autres** : Stripe · temps réel (Mercure)
+- **Front** : Next.js · React · TypeScript · TanStack Query · Three.js / React Three Fiber
+- **Back** : NestJS · ExpressJS
+- **Autres** : Stripe · temps réel (Mercure)
 
 ## Me retrouver
 
