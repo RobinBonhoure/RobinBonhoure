@@ -1,16 +1,21 @@
-## Hi there 👋
+# Salut, moi c'est Robin 👋
 
-<!--
-**RobinBonhoure/RobinBonhoure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Développeur web fullstack basé à **Toulouse**, spécialisé React et Next.js.
+Formation scientifique (licence), puis 5 ans d'expérience en startup.
 
-Here are some ideas to get you started:
+## Ce que j'ai fait
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Plateforme de pet-sitting** : grosse application produit, côté front comme back
+- **Sites vitrines WebGL** : expériences 3D avec Three.js
+
+## Ma stack
+
+**Front** : Next.js · React · TypeScript · TanStack Query · Three.js / React Three Fiber
+**Back** : NestJS · ExpressJS
+**Autres** : Stripe · temps réel (Mercure)
+
+## Me retrouver
+
+- 🌐 [robinbonhoure.com](https://robinbonhoure.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/robinbonhoure/)
+- ✉️ robin.bonhoure@outlook.fr
